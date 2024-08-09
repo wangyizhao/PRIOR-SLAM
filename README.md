@@ -13,4 +13,3 @@ We provide demonstrations comparing PRIOR-SLAM with well-known baselines on the 
     </a>
 </p>
 
-Code coming soon!
