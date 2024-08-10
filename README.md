@@ -19,4 +19,18 @@ We provide demonstrations comparing PRIOR-SLAM with well-known baselines on the 
   <img src="docs/gif/KITTI_08_1.gif"/>
 </div>
 
+<div align="center">
+  <img src="docs/gif/KITTI_08_2.gif"/>
+</div>
 
+<div align="center">
+  <img src="docs/gif/OpenLORIS_Cafe1.gif"/>
+</div>
+
+<div align="center">
+  <img src="docs/gif/OpenLORIS_Office1-2.gif"/>
+</div>
+
+<div align="center">
+  <img src="docs/gif/UrbanLoco_CA55828.gif"/>
+</div>
