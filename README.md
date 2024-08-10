@@ -5,8 +5,6 @@ PRIOR-SLAM is the first system which leverages scene structure extracted from mo
 
 PRIOR-SLAM is developed based on the framework of [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) and refines the 3D mesh reconstruction module from [Kimera](https://github.com/MIT-SPARK/Kimera).
 
-We provide demonstrations comparing PRIOR-SLAM with well-known baselines on the selected sequences with challenging loop closures, including [KITTI dataset](https://www.cvlibs.net/datasets/kitti/raw_data.php), [OpenLORIS-Scene dataset](https://github.com/lifelong-robotic-vision/OpenLORIS-Scene/blob/master/download.md), and [UrbanLoco dataset](https://github.com/weisongwen/UrbanLoco/blob/master/README.md).
-
 <p align="center">
     <a href="https://youtu.be/NAmnmd1eDCE">
     <img src="docs/media/intro.png" alt="PRIOR-SLAM">
@@ -14,6 +12,8 @@ We provide demonstrations comparing PRIOR-SLAM with well-known baselines on the 
 </p>
 
 ## Loop Closure Demo
+
+We provide demonstrations comparing PRIOR-SLAM with well-known baselines on the selected sequences with challenging loop closures, including [KITTI dataset](https://www.cvlibs.net/datasets/kitti/raw_data.php), [OpenLORIS-Scene dataset](https://github.com/lifelong-robotic-vision/OpenLORIS-Scene/blob/master/download.md), and [UrbanLoco dataset](https://github.com/weisongwen/UrbanLoco/blob/master/README.md).
 
 ### KITTI 08
 
@@ -44,6 +44,8 @@ We provide demonstrations comparing PRIOR-SLAM with well-known baselines on the 
 </div>
 
 ## PRIOR
+
+We provide demonstrations comparing PRIOR with well-known features on the interpolated Oxford Graffiti sequence, where the first image is taken as a reference and subsequent images are used to form pairs with increasing viewpoint variations.
 
 <div align="center">
   <img src="docs/gif/feature_matching.gif"/>
