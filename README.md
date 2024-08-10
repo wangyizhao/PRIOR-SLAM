@@ -45,7 +45,7 @@ We provide demonstrations comparing PRIOR-SLAM with well-known baselines on the 
 
 ## PRIOR
 
-We provide demonstrations comparing PRIOR with well-known features on the interpolated Oxford Graffiti sequence, where the first image is taken as a reference and subsequent images are used to form pairs with increasing viewpoint variations.
+We provide demonstrations comparing PRIOR with well-known features on the interpolated [Oxford](https://www.robots.ox.ac.uk/~vgg/research/affine/index.html) Graffiti sequence, where the first image is taken as a reference and subsequent images are used to form pairs with increasing viewpoint variations.
 
 <div align="center">
   <img src="docs/gif/feature_matching.gif"/>
