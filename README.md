@@ -13,6 +13,7 @@ We provide demonstrations comparing PRIOR-SLAM with well-known baselines on the 
     </a>
 </p>
 
+## Demo
 
 <div align="center">
   <img src="docs/gif/KITTI_08_1.gif"/>
