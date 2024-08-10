@@ -13,7 +13,7 @@ We provide demonstrations comparing PRIOR-SLAM with well-known baselines on the 
     </a>
 </p>
 
-## Demo
+## Loop Closure Demo
 
 ### KITTI 08
 
