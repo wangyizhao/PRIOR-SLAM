@@ -43,3 +43,9 @@ We provide demonstrations comparing PRIOR-SLAM with well-known baselines on the 
   <img src="docs/gif/UrbanLoco_CA55828.gif"/>
 </div>
 
+## PRIOR
+
+<div align="center">
+  <img src="docs/gif/feature_matching.gif"/>
+</div>
+
